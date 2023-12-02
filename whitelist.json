@@ -1,0 +1,35 @@
+{
+	"List":
+	[
+		{
+			"m_SteamID": 	"",
+            "m_Discord": 	"",
+			"m_ServerName": "myPC",
+			"m_IP": "109.72.249.94"
+		},
+		{
+			"m_SteamID": 	"76561198882226338",
+            "m_Discord": 	"",
+			"m_ServerName": "Nomads",
+			"m_IP": "212.22.93.96"
+		},
+		{
+			"m_SteamID": 	"",
+            "m_Discord": 	"",
+			"m_ServerName": "Hotline Chaikinj",
+			"m_IP": "185.207.214.117"
+		},
+		{
+			"m_SteamID": 	"",
+            "m_Discord": 	"",
+			"m_ServerName": "Requiem Inspector",
+			"m_IP": "185.189.255.225"
+		},
+		{
+			"m_SteamID": 	"",
+            "m_Discord": 	"",
+			"m_ServerName": "Mafiozio Yakydza",
+			"m_IP": "46.174.48.77"
+		}
+	]
+}
